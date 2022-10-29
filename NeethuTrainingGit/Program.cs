@@ -35,7 +35,4 @@ app.Run();
 // Second Feature
 // More code for second Feature
 
-// Second Feature
-// More code for second Feature
-
 // Feature 3 added
